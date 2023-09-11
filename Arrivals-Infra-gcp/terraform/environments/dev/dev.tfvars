@@ -1,0 +1,5 @@
+environment = "dev"
+project     = "titanium-tape-394017"
+region      = "europe-central2"
+service     = "arrivals-landing-page"
+github_repository_name = "ArrivalsApp/Arrivals-Landing-Page"
